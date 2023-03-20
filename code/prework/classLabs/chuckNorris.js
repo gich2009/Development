@@ -1,5 +1,5 @@
 let whatChuckWants = !true;
-let something = true;
+let something = Boolean(Math.random);
 
 console.log(chuck(whatChuckWants, something));
 

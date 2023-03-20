@@ -12,11 +12,11 @@ const checkSheepArray = (sheepArrayParameter) => {
 
 let sheepArray = [true,  true,  true,  false,
   true,  true,  true,  true ,
-  true,  false, true,  false,
-  true,  false, false, true ,
+  true,  true, true,  false,
+  true,  false, 5, true ,
   true,  true,  true,  true ,
   false, false, true,  true];
-
+  
 
 
 checkSheepArray(sheepArray);
