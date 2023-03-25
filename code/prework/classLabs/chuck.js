@@ -3,4 +3,8 @@ function chuck (something) {
   return something;
 }
 
+geese = new Array("African", "Chinese");
+
+geese.find()
+
 const chuck = (something) => (something === true) ? !true : true;
